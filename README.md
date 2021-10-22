@@ -1,2 +1,2 @@
-# Estat-stica-Multivariada---Aulas
+# Estatistica-Multivariada---Aulas
 Scripts das aulas
